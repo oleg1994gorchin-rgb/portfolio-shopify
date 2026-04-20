@@ -1,0 +1,3 @@
+module.exports=[6805,a=>a.a(async(b,c)=>{try{let b=await a.y("react-toastify");a.n(b),c()}catch(a){c(a)}},!0),3586,a=>a.a(async(b,c)=>{try{var d=a.i(8171),e=a.i(6805),f=b([e]);function g({Component:a,pageProps:b}){return(0,d.jsxs)(d.Fragment,{children:[(0,d.jsx)(a,{...b}),(0,d.jsx)(e.ToastContainer,{position:"bottom-right",autoClose:3e3,newestOnTop:!0})]})}[e]=f.then?(await f)():f,a.s(["default",()=>g]),c()}catch(a){c(a)}},!1)];
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__ed1d4ec2._.js.map
