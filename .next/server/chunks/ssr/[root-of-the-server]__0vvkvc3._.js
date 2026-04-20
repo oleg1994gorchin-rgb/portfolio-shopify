@@ -1,0 +1,3 @@
+module.exports=[5959,a=>a.a(async(b,c)=>{try{let b=await a.y("react-toastify-335533432e285e84");a.n(b),c()}catch(a){c(a)}},!0),3586,a=>a.a(async(b,c)=>{try{var d=a.i(8171),e=a.i(5959),f=b([e]);[e]=f.then?(await f)():f,a.s(["default",0,function({Component:a,pageProps:b}){return(0,d.jsxs)(d.Fragment,{children:[(0,d.jsx)(a,{...b}),(0,d.jsx)(e.ToastContainer,{position:"bottom-right",autoClose:3e3,newestOnTop:!0})]})}]),c()}catch(a){c(a)}},!1)];
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__0vvkvc3._.js.map
